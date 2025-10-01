@@ -1,0 +1,5 @@
+{
+  "name": "Insurance Agent CRM",
+  "description": "A comprehensive CRM application for insurance agents to manage their customer portfolio, track opportunities, renewals, and follow-ups, and view detailed customer profiles. It features advanced filtering, a dynamic dashboard, and interactive tools like a digital visiting card.",
+  "requestFramePermissions": []
+}
